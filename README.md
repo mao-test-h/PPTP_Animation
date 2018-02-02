@@ -1,6 +1,8 @@
 # PPTP_Animation
 ProcessingでTextureを一切使わずにコードだけで実装した謎のアニメーション
 
+![hoge](https://user-images.githubusercontent.com/17098415/35743080-c28111fc-087f-11e8-8ca2-3583bb02eedc.gif)
+
 ポプ子とピピ美の描画は以下を参照
 - ポプ子
     - https://github.com/mao-test-h/PopukoDraw
